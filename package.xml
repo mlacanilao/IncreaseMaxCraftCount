@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Increase Max Craft Count</title>
+  <id>omegaplatinum.elin.increasemaxcraftcount</id>
+  <author>OmegaPlatinum</author>
+  <loadPriority>100</loadPriority>
+  <description>
+    Allows players to customize the maximum number of items they can craft at once in the crafting menu.
+    クラフトメニューで一度にクラフトできるアイテムの最大数をカスタマイズできるようにします。
+
+    [h1] Features [/h1]
+    [list]
+    [*]Lets players set their desired max craft count through the configuration file.
+    [/list]
+
+    [h1] Compatibility [/h1]
+    This mod works with existing save files.
+
+    [h2] Max Craft Count [/h2]
+    Set the maximum number of items that can be crafted at once.
+    [code] Default: 9999 [/code]
+
+    [h1] Configuration File Location [/h1]
+    [code] Steam\steamapps\common\Elin\BepInEx\config\omegaplatinum.elin.increasemaxcraftcount.cfg [/code]
+
+    Supports Game Version: 0.23.67
+
+    [h1] 特徴 [/h1]
+    [list]
+    [*]クラフトメニューで一度にクラフトできるアイテム数を設定可能にします。
+    [/list]
+
+    [h1] 互換性 [/h1]
+    このMODは既存のセーブデータで動作し、特別な設定は不要です。
+
+    [h2] 最大クラフト数の設定 [/h2]
+    一度にクラフトできる最大アイテム数を設定します。
+    [code] デフォルト: 9999 [/code]
+
+    [h1] 設定ファイルの場所 [/h1]
+    [code] Steam\steamapps\common\Elin\BepInEx\config\omegaplatinum.elin.increasemaxcraftcount.cfg [/code]
+
+    対応ゲームバージョン: 0.23.67
+  </description>
+  <tags>QoL</tags>
+  <visibility>Public</visibility>
+  <version>0.23.67</version>
+</Meta>
